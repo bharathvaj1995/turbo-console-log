@@ -8,7 +8,7 @@ This extension make debugging much easier by automating the operation of writing
 
 ---
 
-I) Insert meaningful log message automatically
+**I) Insert meaningful log message automatically**
 
 Two steps:
 
